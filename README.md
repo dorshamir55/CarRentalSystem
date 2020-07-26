@@ -9,10 +9,10 @@ The project included development specification and prerequisites, design and pro
 Included Design Patterns: Observer, Singleton, Factory and MVC architecture.
 
 ## Screenshots:
-![Login](https://github.com/eliadgavri/CarRental/raw/master/ScreenShots/Login.png)
-![MainScreen](https://github.com/eliadgavri/CarRental/raw/master/ScreenShots/MainScreen.PNG)
-![MakeOrder](https://github.com/eliadgavri/CarRental/raw/master/ScreenShots/MakeOrder.PNG)
-![MyOrders](https://github.com/eliadgavri/CarRental/raw/master/ScreenShots/MyOrders.PNG)
-![AllOrders](https://github.com/eliadgavri/CarRental/raw/master/ScreenShots/AllOrders.PNG)
-![ManagerScreen](https://github.com/eliadgavri/CarRental/raw/master/ScreenShots/ManagerScreen.PNG)
-![RegisterNewEmployee](https://github.com/eliadgavri/CarRental/raw/master/ScreenShots/RegisterNewEmployee.PNG)
+![Login](https://github.com/Dorshamir55/CarRentalSystem/raw/master/ScreenShots/Login.png)
+![MainScreen](https://github.com/Dorshamir55/CarRentalSystem/raw/master/ScreenShots/MainScreen.PNG)
+![MakeOrder](https://github.com/Dorshamir55/CarRentalSystem/raw/master/ScreenShots/MakeOrder.PNG)
+![MyOrders](https://github.com/Dorshamir55/CarRentalSystem/raw/master/ScreenShots/MyOrders.PNG)
+![AllOrders](https://github.com/Dorshamir55/CarRentalSystem/raw/master/ScreenShots/AllOrders.PNG)
+![ManagerScreen](https://github.com/Dorshamir55/CarRentalSystem/raw/master/ScreenShots/ManagerScreen.PNG)
+![RegisterNewEmployee](https://github.com/Dorshamir55/CarRentalSystem/raw/master/ScreenShots/RegisterNewEmployee.PNG)
